@@ -26,25 +26,20 @@ Working of the application
 
 Initiate the verification by clicking on the **Verify** button.
 
-```sh
 ![](https://github.com/archisha13/Face-Recognition-App/blob/main/Uninitiated.png)
 
-```
 
 After Initiation click on the **verify** button again to verify
 
 Image verified by the application
-```sh
+
 ![](https://github.com/archisha13/Face-Recognition-App/blob/main/Verified.png)
 
-```
 
 
 Image unverified by the application
-```sh
-![](https://github.com/archisha13/Face-Recognition-App/blob/main/Unverified.png)
 
-```
+![](https://github.com/archisha13/Face-Recognition-App/blob/main/Unverified.png)
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
