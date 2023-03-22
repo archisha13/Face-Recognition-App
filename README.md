@@ -27,7 +27,7 @@ Working of the application
 Initiate the verification by clicking on the **Verify** button.
 
 ```sh
-![image](https://user-images.githubusercontent.com/69207146/226801326-2c56f30b-a474-4482-af4a-e65cad5ece39.png)
+![image](https://github.com/archisha13/Face-Recognition-App/blob/main/Uninitiated.png)
 
 ```
 
