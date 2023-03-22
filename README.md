@@ -7,7 +7,7 @@ Neural networks are good at almost every task but they rely on more and more dat
 ## What is a Siamese Network?
 A siamese neural network (SNN) is a class of neural network architectures that contain two or more identical sub-networks. “Identical” here means they have the same configuration with the same parameters and weights. Parameter updating is mirrored across both sub-networks and it’s used to find similarities between inputs by comparing feature vectors.
 ## What are the advantages of using it?
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
 - 👉  are capable of learning generic image features useful for making predictions about unknown class distributions even when very few examples from these new distributions are available;
 - 👉  are easily trained using standard optimization techniques on pairs sampled from the source
 data; 
@@ -27,7 +27,7 @@ Working of the application
 Initiate the verification by clicking on the **Verify** button.
 
 ```sh
-![image](https://github.com/archisha13/Face-Recognition-App/blob/main/Uninitiated.png)
+![](https://github.com/archisha13/Face-Recognition-App/blob/main/Uninitiated.png)
 
 ```
 
@@ -35,14 +35,14 @@ After Initiation click on the **verify** button again to verify
 
 Image verified by the application
 ```sh
-![image](https://user-images.githubusercontent.com/69207146/226801361-f754f5d3-2743-4fce-839a-54d607678fb3.png)
+![](https://github.com/archisha13/Face-Recognition-App/blob/main/Verified.png)
 
 ```
 
 
 Image unverified by the application
 ```sh
-![image](https://user-images.githubusercontent.com/69207146/226801394-8cae6201-92f6-4d66-bc59-d93a4662a0bf.png)
+![](https://github.com/archisha13/Face-Recognition-App/blob/main/Unverified.png)
 
 ```
 
