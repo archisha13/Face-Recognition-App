@@ -1,6 +1,8 @@
 
 # Face-Recognition-App
 This project was created referring to the paper "Siamese Neural Networks for One-shot Image Recognition" which is present in the files above
+
+* You can find detailed explaination of the project https://medium.com/@archisha.srivastava078/face-verification-app-using-siamese-like-cnn-8f4676018d21
 ## Why Siamese Network?
 Neural networks are good at almost every task but they rely on more and more data to perform well. For certain problems like facial recognition and signature verification, we can’t always rely on getting more data. To solve these kinds of tasks we have a new type of neural network architecture called siamese networks.
 
@@ -19,7 +21,7 @@ data;
 - Building the Network
 - Training the Network
 - Making Kivy app using OpenCV and Tensorflow
-- 
+
 ## Verification
 
 Working of the application
